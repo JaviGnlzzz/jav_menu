@@ -63,7 +63,7 @@ end)
     * title
     * description (optional)
     * icon (optional)
-    * value
+    * value (if value is 'close' the menu will auto close when that item is selected)
     * other values
     
 
