@@ -1,9 +1,9 @@
 # jav_menu
 
-[!NOTE]
+> [!NOTE]
 Mouse scroll and keys control menu for Fivem.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 This is and standalone resource which means you can use in any core.
 
 # Getting Started
