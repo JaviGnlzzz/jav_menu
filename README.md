@@ -34,6 +34,7 @@ RegisterCommand('menu_example', function()
        {
            title = 'Item 1',
            description = 'This is the first item',
+           icon = 'fas fa-car',
            value = 'item_1',
            persoliazedData = {
                example = 'example'
