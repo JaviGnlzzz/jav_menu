@@ -17,7 +17,7 @@ This is and standalone resource which means you can use in any core.
 
 *Menu example
 
-    ```
+    
         local Menu = exports['jav_menu']
 
         RegisterCommand('menu_example', function()
@@ -50,11 +50,11 @@ This is and standalone resource which means you can use in any core.
         
         end)
       
-    ```
+    
 
 *Implement dialog in a item of the menu
 
-    ```
+    
         Menu:CreateNewMenu(title, items, function(data)
             if (data.value == 'item_1') then
                 print(data.persoliazedData.example)
@@ -68,4 +68,4 @@ This is and standalone resource which means you can use in any core.
                 end)
             end
         end)
-    ```
+    
