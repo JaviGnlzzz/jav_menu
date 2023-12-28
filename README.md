@@ -17,7 +17,7 @@ This is and standalone resource which means you can use in any core.
 
    * Menu example
 
-    ```
+    
         local Menu = exports['jav_menu']
 
         RegisterCommand('menu_example', function()
@@ -49,7 +49,7 @@ This is and standalone resource which means you can use in any core.
             end)
         
         end)
-      ```
+      
       
     
 
