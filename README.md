@@ -58,7 +58,7 @@ RegisterCommand('menu_example', function()
 end)
 ```
 
-  * Item values
+  > Item values
     
     * title
     * description (optional)
