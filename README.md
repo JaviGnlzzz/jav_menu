@@ -10,10 +10,13 @@ This is and standalone resource which means you can use in any core.
 # Getting Started
 
 * Setting up
+    *Download the resource
   
     * Go to your server files
+      
     * Drop the resource
-    * Start it in your server.cfg - ensure jav_menu:
+      
+    * Start it in your server.cfg - ensure jav_menu
 
 # Making menus
 
