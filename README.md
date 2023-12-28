@@ -10,7 +10,8 @@ This is and standalone resource which means you can use in any core.
 # Getting Started
 
 * Setting up
-    *Download the resource
+  
+    * Download the resource
   
     * Go to your server files
       
