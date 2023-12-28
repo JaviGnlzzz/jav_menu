@@ -19,9 +19,9 @@ This is and standalone resource which means you can use in any core.
       
     * Start it in your server.cfg - ensure jav_menu
 
-# Making menus
+# Creation of a menu
 
-* Menu example
+* Example
 
     
         local Menu = exports['jav_menu']
