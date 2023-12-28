@@ -75,4 +75,20 @@ Menu:CreateNewMenu(title, items, function(data)
         end)
     end
 end)
-```    
+```
+
+* Cerrar menu
+
+```lua
+  local Menu = exports['jav_menu']
+
+  Menu:CloseMenu()
+```
+
+* Cerrar dialog
+
+```lua
+  local Menu = exports['jav_menu']
+
+  Menu:CloseDialog()
+```
