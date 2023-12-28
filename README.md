@@ -23,40 +23,40 @@ This is and standalone resource which means you can use in any core.
 
 * Example
 
-    
+```lua
         local Menu = exports['jav_menu']
 
         RegisterCommand('menu_example', function()
      
-         local title = 'Example Menu'
-     
-         local items = {
-             {
-                 title = 'Item 1',
-                 description = 'This is the first item',
-                 value = 'item_1',
-                 persoliazedData = {
-                     example = 'example'
-                 }
-             },
-             {
-                 title = 'Item 2',
-                 description = 'This is the second item',
-                 value = 'item_2'
-             },
-         }
-     
-         Menu:CreateNewMenu(title, items, function(data)
-             if (data.value == 'item_1') then
-                 print(data.persoliazedData.example)
-             elseif (data.value == 'item_2') then
-                 print('Item 2 selected')
-             end
-         end)
+           local title = 'Example Menu'
+       
+           local items = {
+               {
+                   title = 'Item 1',
+                   description = 'This is the first item',
+                   value = 'item_1',
+                   persoliazedData = {
+                       example = 'example'
+                   }
+               },
+               {
+                   title = 'Item 2',
+                   description = 'This is the second item',
+                   value = 'item_2'
+               },
+           }
+       
+           Menu:CreateNewMenu(title, items, function(data)
+               if (data.value == 'item_1') then
+                   print(data.persoliazedData.example)
+               elseif (data.value == 'item_2') then
+                   print('Item 2 selected')
+               end
+           end)
      
         end)
    
-      
+```
     
 
 * Implement dialog in a item
