@@ -60,9 +60,9 @@ end)
 
   * Item values
     
-    *> title
-    *> description (optional)
-    *> icon (optional)
+    * title
+    * description (optional)
+    * icon (optional)
     * value (if value is 'close' the menu will auto close when that item is selected)
     * other values
     
