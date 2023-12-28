@@ -57,6 +57,14 @@ RegisterCommand('menu_example', function()
 
 end)
 ```
+
+  * Item values
+    
+    * title
+    * description (optional)
+    * icon (optional)
+    * value
+    * other values
     
 
 * Implement dialog in a item
