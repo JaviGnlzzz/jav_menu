@@ -53,7 +53,7 @@ This is and standlone resource which means you can use in any core.
       
     
 
-* Implement dialog in a item of the menu
+* Implement dialog in a item
 
     
         Menu:CreateNewMenu(title, items, function(data)
