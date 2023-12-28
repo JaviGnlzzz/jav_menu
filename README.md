@@ -1,10 +1,11 @@
 # jav_menu
 
 > Mouse scroll and keys control menu for Fivem.
+
 > Preview : https://streamable.com/5pjgqa
 
 > [!IMPORTANT]
-This is and standlone resource which means you can use in any core.
+This is and standalone resource which means you can use in any core.
 
 # Getting Started
 
