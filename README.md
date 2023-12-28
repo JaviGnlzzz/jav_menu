@@ -8,6 +8,7 @@ This is and standlone resource which means you can use in any core.
 # Getting Started
 
 * Setting up
+  
     * Go to your server files
     * Drop the resource
     * Start it in your server.cfg - ensure jav_menu:
