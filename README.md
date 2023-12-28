@@ -1,6 +1,6 @@
 # jav_menu
 
-> [!NOTE]
+> [!INFO]
 Mouse scroll and keys control menu for Fivem.
 
 > [!IMPORTANT]
