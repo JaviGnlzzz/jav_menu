@@ -77,18 +77,18 @@ Menu:CreateNewMenu(title, items, function(data)
 end)
 ```
 
-* Cerrar menu
+* Close menu
 
 ```lua
-  local Menu = exports['jav_menu']
+local Menu = exports['jav_menu']
 
-  Menu:CloseMenu()
+Menu:CloseMenu()
 ```
 
-* Cerrar dialog
+* Close dialog
 
 ```lua
-  local Menu = exports['jav_menu']
+local Menu = exports['jav_menu']
 
-  Menu:CloseDialog()
+Menu:CloseDialog()
 ```
