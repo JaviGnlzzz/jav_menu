@@ -78,7 +78,7 @@ Menu:CreateNewMenu(title, items, function(data)
         local title = 'Example Dialog'
         local type = 'text' -- (text, string), number
 
-        CreateNewDialog(title, type, function(value)
+        Menu:CreateNewDialog(title, type, function(value)
             print('Dialog value: ' .. value)
         end)
     end
