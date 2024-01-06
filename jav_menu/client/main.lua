@@ -32,6 +32,10 @@ exports('CloseDialog', function()
     Dialog(false)
 end)
 
+exports('IsMenuOpen', function()
+    return menu.open
+end)
+
 exports('CloseMenu', function()
     Menu(false, {}, true)
 end)
